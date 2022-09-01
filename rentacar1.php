@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel='icon' href='https://cdn3.f-cdn.com/contestentries/401406/13464693/572b13cb93322_thumb900.jpg'>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+
+    
+</script>
+
+    <style>
+    
+    body{
+      font-family: TW Cen MT Condensed;
+      font-weight: bold;
+      padding: 5px;
+    }
+    .jumbotron {
+      font-family:TW Cen MT Condensed;
+    	background-image: url(http://rentareliablecars.com/uploads/opel-corsa-11.jpg
+        );
+      background-size: 1600px;
+    	text-align: center;
+      margin-top: 60px;
+      margin-bottom: 2px;
+      height: 650px;
+      padding-top: 120px;
+    }
+
+i{
+  padding: 10px;
+}
+
+.btn{
+
+  width: 180px;
+  height: 50px;
+  margin-top: 30px;
+  border-radius: 300px;
+  border: solid 1px #00496A; 
+  margin-right: 15px;
+}
+
+.btn-danger{
+   background-color:#013554;
+   text-align: center;
+   padding-top: 14px;
+   border: solid 1px #013554;
+}
+
+.btn-danger:hover{
+  background-color: #4A4C4C;
+  border: solid 1px #00496A;
+}
+
+.btn-light{
+  padding-top: 13px;}
+
+.navbar-brand{
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+
+.nav-item{
+  margin: 0px 10px;
+}
+
+.navbar-nav{
+  position: relative;
+  float: right;
+}
+
+#hrblue{
+  border: 2px solid #00496A;
+  width: 80px;
+}
+
+#hrwhite{
+  border: 2px solid white;
+  width: 80px;
+}
+
+
+.heading{
+  background-color: none;
+  margin: 0 auto;
+  width: 1000px;
+  padding: 10PX;
+}
+.bg-red{
+  background-color: #00496A;
+}
+
+#about{
+  text-align: center;
+  padding-top: 150px;
+  height: 650px;
+ 
+}
+#services{
+  background-image: url(header.jpg);
+  text-align: center;
+  padding-top: 50px;
+  height: 650px;
+  margin-top: 2px;
+}
+
+
+#appimg{
+  width: 300px;
+  height: 80px;
+}
+
+.row{
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.portfolio-box{
+  margin: 0 auto;
+}
+
+
+#footer{
+  background-color: #00496A;
+  padding-top:170px;
+  padding-bottom: 120px;
+  margin-top: 3px;
+  height: 650px;
+
+}
+
+#contactcontent{
+  width: 700px;
+  margin:0 auto;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.feedback{
+  color: white;
+}
+.feedback:hover{
+  color: #4A4C4C;
+}
+
+.img1{
+  vertical-align: center;
+  margin-top:-30px;
+  height:150px;
+  width:250px;
+
+}
+a{
+  color: #4A4C4C;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #00496A;
+}
+img{
+  height: 130px;
+  width: 150px;
+  margin: 10px;
+
+}
+
+nav{
+  height: 60px;
+}
+
+.alert{
+  margin-top: 10px;
+}
+    </style>
+
+ </head>
+
+  <body data-spy="scroll" data-target="#navbar1" data-offset="100">
+
+  <nav class="navbar navbar-light bg-light navbar-expand-md fixed-top" id="navbar1">
+    <a class="navbar-brand" href="#jumbotron"><img src="logo.png"></a>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+      <a class="nav-link" href="signup.html" id="link1">Sign Up/Login</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#about" id="link1">About</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#services" id="link2">Services</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#footer" id="link3">Contact</a>
+    </li>
+  </ul>
+  </nav>
+
+  </div>
+</nav>
+<div class="jumbotron" id="jumbotron">
+  <div class="heading">
+  <h1 style="color: white"><strong>HAVE PROBLEM SELLING, BUYING OR RENTING CARS?<br>
+    THIS IS THE ONE-STOP SOLUTION TO ALL YOUR PROBLEMS!</strong>
+</h1>
+    <a class="btn btn-danger" href="sell.php" ><h6><b>SELL</b></h6>
+   </a>
+<a class="btn btn-danger" href="inventory.php"><h6><b>BUY</b></h6> 
+   </a>
+<a class="btn btn-danger" href="#"><h6><b>RENT</b></h6>
+   </a>
+
+   
+</div>
+</div>
+<section class="bg-red" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading text-white"><b>WHY VROOM?</b></h2>
+            <hr class="light my-4" id="hrwhite">
+            <p style="color:white">
+            SELL, BUY AND RENT AT ONE PLACE<i class="fas fa-comments-dollar"></i>
+            <br>
+            BEST PRICE GUARANTEED<i class="fas fa-hand-holding-usd"></i>
+            <br>
+            BEST AND RELIABLE CARS<i class="fas fa-car"></i>
+            <br>
+            EASY AND FAST PAYMENT MODES<i class="fas fa-credit-card"></i>
+          </p>
+
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services"><b>Get Started!</b></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading"><b>AT YOUR SERVICE!</b></h2>
+            <hr class="light my-4" id="hrblue">
+        
+            <div class="row">
+            <div class=" col-md-6 text-center">
+            <div class="service-box mt-5">
+              <h3 class="mb-3"><a href="sell.php"><b>SELL</b></a></h3>
+              <p class="text-muted">You can sell your cars at the most reasonable prices.</p>
+            </div>
+          </div>
+
+          <div class=" col-md-6 text-center">
+            <div class="service-box mt-5 ">
+              <h3 class="mb-3"><a href="#"><b>BUY</b></a></h3>
+              <p class="text-muted">You can buy the best cars at the cheapest and most affordable prices.</p>
+            </div>
+          </div>
+        </div>
+          
+       
+          <div class="row">
+          <div class=" col-md-6 text-center">
+            <div class="service-box mt-5">
+              <h3 class="mb-3"><a href="#"><b>RENT</b></a></h3>
+              <p class="text-muted">If you just want to rent, then we have that option too.</p>
+          </div>
+</div>
+ <div class="row">
+          <div class=" col-md-6 text-center">
+            <div class="service-box mt-5">
+              <img src="sell.jpg" class="img1">
+            </div>
+          </div>
+
+          
+        </div>
+          
+       
+<div>
+            <a class="btn btn-danger btn-xl js-scroll-trigger " href="#footer"><b>Contact Us!</b></a>
+          </div>
+
+
+    </section>
+
+
+  <div id="footer"style="text-align:center">
+    <h2 style="color:white"><b>LET'S GET IN TOUCH!</b></h2>
+    <hr class="my-4" id="hrwhite">
+    <p class="lead" id="contactcontent">Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+    <i class="fas fa-phone fa-lg"></i>
+    <br>
+    <p style="color:white">9900112233</p>
+    <br>
+    <i class="fas fa-envelope fa-lg"></i>
+    <p><a href="#" class="feedback">feedback@vroom.com</a></p>
+
+  </div>
+
+
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/14.2.0/smooth-scroll.min.js" integrity="sha256-/k5n1rmutzb2PSqvtV77T+xHa9plhfEjb/mpn1RpMzA=" crossorigin="anonymous"></script>
+
+  </body>
+</html>
